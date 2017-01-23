@@ -10,6 +10,14 @@
 
 class Yodel
 
+  def initialize (segment, count)
+    @segment = segment_hash [:segment]
+    @count = count_hash [:count]
+  end
+
+  def segment
+    
+  end
 end
 
 
